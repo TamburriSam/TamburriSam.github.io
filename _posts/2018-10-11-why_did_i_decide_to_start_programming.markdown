@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why did I decide to start programming?"
-date:       2018-10-11 14:33:58 +0000
+date:       2018-10-11 10:33:59 -0400
 permalink:  why_did_i_decide_to_start_programming
 ---
 
